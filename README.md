@@ -13,4 +13,6 @@ This script simply produces a new XLSX with a single line per data file which pr
 
 The script is not useful without the Staff III database itself [1].
 
+You need Python 3.6+ and the openpyxl library to run this script, both of which are freely available.
+
 [1] https://physionet.org/content/staffiii/1.0.0/
